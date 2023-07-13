@@ -1,6 +1,10 @@
 # Hexlide
 
-[Play it in your browser here!](http://jtkelm2.github.io/Hexlide/)
+[Play it in your browser here!](http://jtkelm2.github.io/Hexlide/)</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/hgqmYcZ.png" />
+</p>
 
 This is an implementation of a hexagonal variant of the 15-tile sliding puzzle in Haxeflixel. Project is considered complete in its current stage.
 
