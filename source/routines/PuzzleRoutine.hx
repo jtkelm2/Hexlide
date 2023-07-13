@@ -77,6 +77,15 @@ class PuzzleRoutine extends Routine
 		// fps.text = '${hexMap.getCoords(FlxG.mouse.x, FlxG.mouse.y)}';
 	}
 
+	override public function update(elapsed:Float)
+	{
+		super.update(elapsed);
+		if (FlxG.keys.justPressed.CONTROL)
+		{
+			Reg.MAX_MOVE_TIME = (0.11 - Reg.MAX_MOVE_TIME);
+		}
+	}
+
 	public function startGame()
 	{
 		gameInProgress = true;
