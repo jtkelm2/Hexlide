@@ -13,3 +13,5 @@ Use either the mouse controls to move tiles around, or your keyboard (up, down, 
 Rest assured that for all level sizes, the shuffling procedure yields all and exactly all solvable puzzles, with uniform probability distribution.
 
 This repo may not be the best to learn from, in terms of code practice. I cobbled it together in a couple days with some over-engineered components from previous projects, and didn't bother to do a final cleaning. Nonetheless, the project should be bug-free.
+
+Font used is HaxeFlixel default, together with [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).
